@@ -1,2 +1,22 @@
-# LushxoHub
-Welcome to Lushxo Hub, I want to add support for a lot more games to this script hub so feel free to suggest in the discord Please remember this script is FREE and Im doing this to learn so dont expect me to update 8 times a day
+
+# Lushxo Hub
+
+[Discord](https://discord.gg/nZCVmjbMqg)
+## Script:
+```bash
+_G.Key = "98ccafaf-c74b-4437-aa63-155588d54526"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Tazie22/luawl-hosted-2866-18108-LushxoHub.lua/main/0.27"))()
+```
+## Current games:
+
+- Family paradise
+
+- Kohaú Hibachi Restaurant
+
+- Legends Of Speed
+
+- Rebirth Champions X
+## Screenshot (New UI):
+
+![App Screenshot](https://cdn.discordapp.com/attachments/962110021771096124/1095349109478658078/Capture.PNG)
+
