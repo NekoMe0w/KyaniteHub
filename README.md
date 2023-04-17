@@ -4,8 +4,7 @@
 [Discord](https://discord.gg/nZCVmjbMqg)
 ## Script:
 ```bash
-_G.Key = "98ccafaf-c74b-4437-aa63-155588d54526"
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Tazie22/luawl-hosted-2866-18108-LushxoHub.lua/main/0.27"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NekoMe0w/Main/main/loader.lua"))()
 ```
 ## Current games:
 
