@@ -4,7 +4,7 @@
 [Discord](https://discord.gg/nZCVmjbMqg)
 ## Script:
 ```bash
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NekoMe0w/Main/main/loader.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NekoMe0w/LushxoHub/main/loader.lua"))()
 ```
 ## Current games:
 
@@ -15,7 +15,14 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/NekoMe0w/Main/main/lo
 - Legends Of Speed
 
 - Rebirth Champions X
+
+- Tower Of Hell
+
+- Lifting Simulator
+
+- Prison Life
+
 ## Screenshot (New UI):
 
-![App Screenshot](https://cdn.discordapp.com/attachments/962110021771096124/1095349109478658078/Capture.PNG)
+![App Screenshot]()
 
