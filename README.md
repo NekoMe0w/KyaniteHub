@@ -23,7 +23,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/NekoMe0w/LushxoHub/ma
 - Prison Life
 
 # Credits
-Hez#2811
-LA5TL0VER#1914
-FB#6437
-frankie#7951
+- Hez#2811
+- LA5TL0VER#1914
+- FB#6437
+- frankie#7951
