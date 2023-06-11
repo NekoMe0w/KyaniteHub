@@ -4,7 +4,8 @@
 [Discord](https://discord.gg/nZCVmjbMqg)
 ## Script:
 ```bash
-loadstring(game:HttpGet("https://raw.githubusercontent.com/NekoMe0w/LushxoHub/main/loader.lua"))()
+_G.Key = "KeyHere"
+loadstring(game:HttpGet("https://raw.githubusercontent.com/NekoMe0w/KyaniteHub/main/loader.lua", true))()
 ```
 ## Current games:
 
