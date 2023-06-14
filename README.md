@@ -22,6 +22,6 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/NekoMe0w/KyaniteHub/m
 
 # Credits
 - Gabriel1#2811
-- LA5TL0VER#1914
+- cmd#1914
 - FB#6437
 - frankie#7951
