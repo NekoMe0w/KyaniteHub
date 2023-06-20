@@ -1,7 +1,7 @@
 
 # Kyanite Hub
 
-[Discord](https://discord.gg/nZCVmjbMqg)
+[Discord](https://discord.gg/hmdFC4GvMU)
 ## Script:
 ```bash
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NekoMe0w/KyaniteHub/main/loader.lua", true))()
