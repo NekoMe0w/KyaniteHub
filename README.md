@@ -8,11 +8,17 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/NekoMe0w/KyaniteHub/m
 ```
 ## Current games:
 
-- Family paradise
+- Family Paradise
 
 - Kohaú Hibachi Restaurant
 
 - Legends Of Speed
+
+- Natural Disaster Survival
+
+- Strong Muscle Simulator 2
+
+- Yeet A Friend
 
 - Rebirth Champions X
 
