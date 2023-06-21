@@ -6,7 +6,7 @@
 ```bash
 loadstring(game:HttpGet("https://raw.githubusercontent.com/NekoMe0w/KyaniteHub/main/loader.lua", true))()
 ```
-## Current games:
+### Current games:
 
 - Family Paradise
 
@@ -26,7 +26,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/NekoMe0w/KyaniteHub/m
 
 - Prison Life
 
-# Credits
+### Credits
 - Gabriel1#2811
 - cmd#1914
 - FB#6437
