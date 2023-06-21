@@ -1,5 +1,5 @@
 
-# Kyanite Hub
+## Kyanite Hub
 
 [Discord](https://discord.gg/hmdFC4GvMU)
 ## Script:
