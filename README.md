@@ -32,4 +32,4 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/NekoMe0w/KyaniteHub/m
 - FB#6437
 - frankie#7951
 
-![Alt text]([relative%20path/to/img.jpg?raw=true "Title](https://i.imgur.com/HsjUTz1.png)https://i.imgur.com/HsjUTz1.png")
+![]([relative%20path/to/img.jpg?raw=true "Title](https://i.imgur.com/HsjUTz1.png)https://i.imgur.com/HsjUTz1.png")
