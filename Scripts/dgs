@@ -11,3 +11,21 @@ local Window = Library:CreateWindow({
     TabPadding = 8,
     MenuFadeTime = 0.2
 })
+
+local Tabs = {
+    Main = Window:AddTab('Main'),
+    Misc = Window:AddTab('Misc'),
+    ['UI Settings'] = Window:AddTab('UI Settings'),
+        Credits = Window:AddTab('Credits'),
+}
+
+local LeftGroupBox = Tabs.Main:AddLeftGroupbox('Chapter 1')
+
+local MyButton = LeftGroupBox:AddButton({
+    Text = 'Instant Win',
+    Func = function()
+        Win()
+    end,
+    DoubleClick = false,
+    Tooltip = 'Complete Game'
+})
