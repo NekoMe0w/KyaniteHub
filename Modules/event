@@ -397,3 +397,11 @@ Float.Size = Vector3.new(10,4,10)
 Float.Transparency = 1
 Float.Anchored = true
 Float.CFrame = game:GetService("Workspace").Scripts.MinerEvent.SpawnPoints.a3.CFrame * CFrame.new(0, -3, 0)
+wait(0.1)
+local Float = Instance.new("Part")
+Float.Parent = game.Workspace
+Float.Name = "Ancient"
+Float.Size = Vector3.new(10,4,10)
+Float.Transparency = 1
+Float.Anchored = true
+Float.CFrame = game:GetService("Workspace").Scripts.MinerEvent.SpawnPoints.Ancient.CFrame * CFrame.new(0, -3, 0)
