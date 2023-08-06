@@ -1472,7 +1472,7 @@ function finity.new(isdark, gprojectName, thinProject)
 						})
 
 						cheat.button = finity:Create("TextButton", {
-							Name = "Copy | Join",
+							Name = "Button",
 							BackgroundColor3 = Color3.new(1, 1, 1),
 							BackgroundTransparency = 1,
 							Position = UDim2.new(0, 0, 0, 0),
