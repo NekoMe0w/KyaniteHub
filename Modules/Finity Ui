@@ -274,7 +274,7 @@ function finity.new(isdark, gprojectName, thinProject)
 		self2.tip.Text = projectName
 	else
         local Game = game:GetService("MarketplaceService"):GetProductInfo(game.PlaceId).Name
-		self2.tip.Text = "Kynaite".." | "..Game..""
+		self2.tip.Text = ""..Game.." | ".."Kynaite"
 	end
     
     function finity.settitle(text)
