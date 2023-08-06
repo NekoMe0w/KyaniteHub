@@ -4,7 +4,7 @@ Float.Name = "Spawn1"
 Float.Size = Vector3.new(10,4,10)
 Float.Transparency = 1
 Float.Anchored = true
-Float.CFrame = game:GetService("Workspace").Scripts.MinerEvent.SpawnPoints.a2.CFrame * CFrame.new(0, -3, 0)
+Float.CFrame = game:GetService("Workspace").Scripts.MinerEvent.SpawnPoints.Spawn.CFrame * CFrame.new(0, -3, 0)
 wait(0.1)
 local Float = Instance.new("Part")
 Float.Parent = game.Workspace
@@ -12,7 +12,7 @@ Float.Name = "Spawn2"
 Float.Size = Vector3.new(10,4,10)
 Float.Transparency = 1
 Float.Anchored = true
-Float.CFrame = game:GetService("Workspace").Scripts.MinerEvent.SpawnPoints.a1.CFrame * CFrame.new(0, -3, 0)
+Float.CFrame = game:GetService("Workspace").Scripts.MinerEvent.SpawnPoints.Spawn.CFrame * CFrame.new(0, -3, 0)
 wait(0.1)
 local Float = Instance.new("Part")
 Float.Parent = game.Workspace
@@ -396,7 +396,7 @@ Float.Name = "Spawn3"
 Float.Size = Vector3.new(10,4,10)
 Float.Transparency = 1
 Float.Anchored = true
-Float.CFrame = game:GetService("Workspace").Scripts.MinerEvent.SpawnPoints.a3.CFrame * CFrame.new(0, -3, 0)
+Float.CFrame = game:GetService("Workspace").Scripts.MinerEvent.SpawnPoints.Spawn.CFrame * CFrame.new(0, -3, 0)
 wait(0.1)
 local Float = Instance.new("Part")
 Float.Parent = game.Workspace
