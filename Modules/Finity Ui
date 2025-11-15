@@ -151,7 +151,7 @@ function finity.new(isdark, gprojectName, thinProject)
 		finityData.ToggleKey = NewKey
 		
 		if not projectName then
-			self2.tip.Text = ""..Game.." | ".."Kyanite Hub"
+			self2.tip.Text = ""..Game.." | ".."Kyanite Hub }{ Ctrl to minimise"
 		end
 		
 		if finityData.UpConnection then
